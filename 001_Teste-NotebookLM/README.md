@@ -35,16 +35,24 @@ O desafio propõe desenvolver um pequeno projeto no NotebookLM para o aluno comp
 </ul>
 
 ![estudio](images/002_estudio.png)
+<p>
 Essa é seção que permite construir apresentação em slide, vídeos e etc, com base nas fontes selecionadas.
+</p>
 
 ![perguntas](images/003_quest.png)
+<p>
 Perguntas criadas pela própria IA que caso selecionadas retornam um texto respondendo a pergunta.
+</p>
 
 ![mapa](images/004_mental.png)
+<p>
 Esse é o mapa mental que a IA construiu com base as fontes.
+</p>
 
 ![slide](images/005_slide.png)
+<p>
 Esse é a apresentação de slide feita pela IA com base as fontes.
+</p>
 
 ## Referências bibliográficas
 <p>
